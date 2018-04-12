@@ -90,10 +90,10 @@
 					</formats>
 					<check>
 						<haltOnFailure>false</haltOnFailure>
-						<lineRate>95</lineRate>
-						<branchRate>95</branchRate>
-						<totalLineRate>95</totalLineRate>
-						<totalBranchRate>95</totalBranchRate>
+						<lineRate>55</lineRate>
+						<branchRate>55</branchRate>
+						<totalLineRate>55</totalLineRate>
+						<totalBranchRate>55</totalBranchRate>
 					</check>
 				</configuration>
 				<executions>
